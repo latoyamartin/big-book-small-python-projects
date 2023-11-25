@@ -4,7 +4,7 @@ A version of this game is featured in the book 'Invent Your Own Computer Games w
 
 import random
 
-NUM_DIGITS = 5
+NUM_DIGITS = 3
 MAX_GUESS = 10
 
 
